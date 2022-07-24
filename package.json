@@ -1,0 +1,24 @@
+{
+  "name": "eventtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninadkambli/EventTest.git"
+  },
+  "author": "NinadKambli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninadkambli/EventTest/issues"
+  },
+  "homepage": "https://github.com/ninadkambli/EventTest#readme",
+  "dependencies": {
+    "cypress": "^10.3.1",
+    "cypress-recurse": "^1.20.0",
+    "dayjs": "^1.11.4"
+  }
+}
